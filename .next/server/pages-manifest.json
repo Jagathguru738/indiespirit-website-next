@@ -1,0 +1,27 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "/": "pages/index.js"
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+  "/": "pages/index.js",
+=======
+>>>>>>> Stashed changes
+=======
+  "/": "pages/index.js",
+  "/services": "pages/services.js",
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+  "/work": "pages/work.js"
+>>>>>>> 9a6130adc282e75d19c1bc1a53183af8a58e418c
+=======
+  "/": "pages/index.js",
+  "/applicationform": "pages/applicationform.js"
+>>>>>>> d68983b172bcf3e180685c514eedc72ad9930883
+}

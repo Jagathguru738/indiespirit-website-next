@@ -1,0 +1,62 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills.js"
+  ],
+  "devFiles": [
+    "static/chunks/react-refresh.js"
+  ],
+  "ampDevFiles": [
+    "static/chunks/webpack.js",
+    "static/chunks/amp.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_buildManifest.js",
+    "static/development/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/index.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/_app.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/_error.js"
+<<<<<<< HEAD
+=======
+    ],
+    "/applicationform": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+<<<<<<< HEAD
+=======
+    "/services": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/services.js"
+    ],
+    "/work": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+>>>>>>> Stashed changes
+=======
+    "/work": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+>>>>>>> Stashed changes
+      "static/chunks/pages/work.js"
+>>>>>>> 9a6130adc282e75d19c1bc1a53183af8a58e418c
+=======
+      "static/chunks/pages/applicationform.js"
+>>>>>>> d68983b172bcf3e180685c514eedc72ad9930883
+    ]
+  },
+  "ampFirstPages": []
+}
